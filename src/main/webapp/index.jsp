@@ -1,6 +1,5 @@
 <html>
-<body>
-<h2>Jenkins Successfully Deloyed War file in Tomcat!</h2>
-<h2> Using GITHUB WebHook </h2>
+<body bgcolor="yellow">
+<h2>Jenkins Successfully Deloyed Tomcat Docker application!</h2>
 </body>
 </html>
