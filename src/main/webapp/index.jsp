@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="yellow">
+<body bgcolor="orange">
 <h2>Jenkins Successfully Deloyed Tomcat Docker application!</h2>
 </body>
 </html>
